@@ -1,0 +1,32 @@
++++
+abstract = "Simulation of geometrically nonlinear large deformation of spine at high updating rates is the primary challenge and prerequisite for the implementation of virtual spine surgery. Modal analysis and model reduction techniques were introduced to process large deformation of virtual spine to achieve the high updating rates. The simulation consists of two phases, the offline pre-computation and the online real-time interaction. In offline pre-computation, modal analysis was employed to process the finite element model and only low frequency modes were retained to construct the reduced subspace. Then, in real-time interaction, implicit Newmark integration scheme was adopted to simulate the virtual spine in reduced subspace and the reduced deformation vector was converted back into original Cartesian coordinates. Numerical experiments show that spine simulation based on model reduction could run at very high updating rates with reasonable precision. In conclusion, the deformable models of spine have the advantage of high updating rates and limited loss of accuracy and therefore could be useful in virtual spine surgery and relevant haptic applications."
+
+abstract_short = ""
+authors = ["Zhan Gao", "Wanjie Sun", "Jiehua Wang", "Zhengzheng Jiang"]
+date = "2013-09-01"
+image_preview = ""
+math = true
+publication_types = ["2"]
+publication = "In *Journal of System Simulation*, in Chinese"
+publication_short = ""
+selected = true
+title = "Real-time Simulation of Virtual Spine Based on Model Reduction"
+#url_code = "#"
+#url_dataset = "#"
+url_pdf = ""
+#url_project = ""
+#url_slides = "#"
+#url_video = "#"
+
+#[[url_custom]]
+#name = "Custom Link"
+#url = "http://www.example.org"
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/spinesimulation.jpg"
+caption = "Real-time spine deformation simulation :smile:"
+
++++
+
+More detail can easily be found on <a href="http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2013&filename=XTFZ201309007&uid=WEEvREcwSlJHSldRa1FhcEE0NXdoZ1F0S3NqSnliS2piTDdTZlJwQVoyMD0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MjcwNDBGckNVUkwyZllPZHJGQ25uVjd2S1BUbk5kTEc0SDlMTXBvOUZZNFI4ZVgxTHV4WVM3RGgxVDNxVHJXTTE=">here</a>.

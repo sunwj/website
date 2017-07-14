@@ -1,0 +1,32 @@
++++
+abstract = "Volume rendering based on standard CUDA ray casting always under-utilize the computational power of current GPU hardware. One of the reasons for this observation is that the SIMT execution model may cause warp divergence due to irregular execution behavior. This paper avoided this weakness by adopting the warp-marching method. Instead of mapping each ray into one thread, we integrate one ray using all of the threads in a warp which will execute instructions in lock-step, hence, no divergence will occur. Besides, we also incorporated dynamic work scheduling strategy into warp-marching to further improve performance of warp-marching by better balancing computation cores’ workloads. Results of experiments indicate that our method can achieve speedup range from 1.9 to 7.9 when compared with standard CUDA implementation."
+
+abstract_short = ""
+authors = ["Wanjie Sun", "Zhan Gao", "Haiyan Pan", "Jiehua Wang", "Zhengzheng Jiang"]
+date = "2016-11-01"
+image_preview = ""
+math = true
+publication_types = ["2"]
+publication = "In *Journal of Computer-Aided Design & Computer Graphics*, in Chinese (EI)"
+publication_short = ""
+selected = true
+title = "Volume Rendering Using Dynamic CUDA Warp Marching"
+#url_code = "#"
+#url_dataset = "#"
+url_pdf = ""
+#url_project = ""
+#url_slides = "#"
+#url_video = "#"
+
+#[[url_custom]]
+#name = "Custom Link"
+#url = "http://www.example.org"
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/cudawarp.jpg"
+caption = "CUDA Warp marching volume rendering :smile:"
+
++++
+
+More detail can easily be found on <a href="http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=JSJF201610003&uid=WEEvREcwSlJHSldRa1FhcEE0NXdoZ1F0S3NqSnliS2piTDdTZlJwQVoyMD0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MDI2MThNMUZyQ1VSTDJmWU9kckZDbm5WNy9PTHo3QmFMRzRIOWZOcjQ5Rlo0UjhlWDFMdXhZUzdEaDFUM3FUclc=">here</a>.

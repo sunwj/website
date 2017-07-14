@@ -1,0 +1,32 @@
++++
+abstract = "The spine is one of the most important structures in the human body. Spinal soft tissues play essential roles in keeping the spine’s mobility and structural stability. The simulation of geometrically nonlinear large deformation of spinal soft tissues at high updating rates is the primary challenge and prerequisite for the implementation of virtual spine surgery. In this paper, model reduction technology is introduced to process large deformation of spinal soft tissues to achieve the high updating rates. Numerical experiments showed that spinal soft tissues simulation based on model reduction could run at very high updating rates with reasonable precision."
+
+abstract_short = ""
+authors = ["Wanjie Sun", "Zhan Gao", "Jiehua Wang", "Weixiang Wu", "Zhengzheng Jiang", "Jian Zhao"]
+date = "2013-11-01"
+image_preview = ""
+math = true
+publication_types = ["2"]
+publication = "In *ICIC Express Letters*, (EI)"
+publication_short = ""
+selected = true
+title = "Model Reduction and Real-time Simulation of Spinal Soft Tissues"
+#url_code = "#"
+#url_dataset = "#"
+url_pdf = ""
+#url_project = ""
+#url_slides = "#"
+#url_video = "#"
+
+#[[url_custom]]
+#name = "Custom Link"
+#url = "http://www.example.org"
+
+# Optional featured image (relative to `static/img/` folder).
+#[header]
+#image = "headers/spinesimulation.jpg"
+#caption = "Real-time spine deformation simulation :smile:"
+
++++
+
+More detail can easily be found on <a href="http://www.ijicic.org/el-7(11).htm">here</a>.
