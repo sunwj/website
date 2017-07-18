@@ -24,12 +24,12 @@ weight = 1
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Communication and Information Engineering"
+  course = "MSc in Communication and Information Engineering"
   institution = "Nantong University"
   year = 2014
 
 [[education.courses]]
-  course = "BEng in Computer Science and Technology"
+  course = "BSc in Computer Science and Technology"
   institution = "Nantong University"
   year = 2010
  

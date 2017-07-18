@@ -3,7 +3,7 @@
 date = "2017-07-15"
 
 # Project title.
-title = "SunVolumeRenderer"
+title = "SunPathTracer"
 
 # Project summary to display on homepage.
 summary = "Experimental CUDA path tracer"
