@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir = false
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "swj@sunwj.cn"
+  email = "sunwanjie@whu.edu.cn"
   address = "Building 5-221, Info. Science College, Wuhan University, No.129 Luoyu Road, Wuhan, China"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
@@ -126,7 +126,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:swj@sunwj.cn"
+    link = "mailto:sunwanjie@whu.edu.cn"
 
   #[[params.social]]
   #  icon = "twitter"

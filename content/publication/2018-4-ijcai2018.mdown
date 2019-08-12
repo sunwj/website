@@ -1,0 +1,32 @@
++++
+abstract = "Predicting scanpath when a certain stimulus is presented plays an important role in modeling visual attention and search. This paper presents a model that integrates convolutional neural network and long short-term memory (LSTM) to generate realistic scanpaths. The core part of the proposed model is a dual LSTM unit, i.e., an inhibition of return LSTM (IOR-LSTM) and a region of interest LSTM (ROI-LSTM), capturing IOR dynamics and gaze shift behavior simultaneously. IOR-LSTM simulates the visual working memory to adaptively integrate and forget scene information. ROI-LSTM is responsible for predicting the next ROI given the inhibited image features. Experimental results indicate that the proposed architecture can achieve superior performance in predicting scanpaths."
+
+abstract_short = ""
+authors = ["Zhenzhong Chen", "Wanjie Sun"]
+date = "2018-07-01"
+image_preview = ""
+math = true
+publication_types = ["1"]
+publication = "In *27th International Joint Conference on Artificial Intelligence*"
+publication_short = ""
+selected = true
+title = "Scanpath Prediction for Visual Attention using IOR-ROI LSTM"
+#url_code = "#"
+#url_dataset = "#"
+url_pdf = "https://www.ijcai.org/proceedings/2018/0089.pdf"
+#url_project = ""
+#url_slides = "#"
+#url_video = "#"
+
+#[[url_custom]]
+#name = "Custom Link"
+#url = "http://www.example.org"
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/scanpath.jpg"
+caption = "Scanpath Prediction for Visual Attention using IOR-ROI LSTM :smile:"
+
++++
+
+More detail can easily be found on <a href="https://www.ijcai.org/proceedings/2018/89">here</a>.

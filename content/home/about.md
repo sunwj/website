@@ -12,24 +12,24 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Computer Graphics",
-    "Computer Vision",
-    "High Performance Computing"
+    "Deep learning",
+    "Human Computer Interaction",
+    "Computer Vision & Graphics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Photogrammetry and Remote Sensing"
+  course = "Ph.D. in Photogrammetry and Remote Sensing"
   institution = "Wuhan University"
-  year = 2012
+  year = 2017
 
 [[education.courses]]
-  course = "MSc in Communication and Information Engineering"
+  course = "MA.Eng. in Communication and Information Engineering"
   institution = "Nantong University"
   year = 2014
 
 [[education.courses]]
-  course = "BSc in Computer Science and Technology"
+  course = "B.Eng. in Computer Science and Technology"
   institution = "Nantong University"
   year = 2010
  
