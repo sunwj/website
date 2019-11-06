@@ -37,4 +37,4 @@ weight = 1
 
 # About
 
-I am currently a first-year PhD candidate in the Insititute of Intelligent Sensing and Computing, under the supervision of Prof. Zhenzhong Chen. My major research interests are Computer Graphics and Computer Vision.
+I am currently a PhD candidate in the Insititute of Intelligent Sensing and Computing, under the supervision of Prof. Zhenzhong Chen. My major research interests are Computer Graphics and Computer Vision.
