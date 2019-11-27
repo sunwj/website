@@ -1,6 +1,6 @@
 baseurl = "https://sunwj.github.io/"  # End your URL with a `/` trailing slash.
 title = "Wanjie Sun"
-copyright = "&copy; 2017 Wanjie Sun"
+copyright = "&copy; 2019 Wanjie Sun"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"

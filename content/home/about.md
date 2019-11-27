@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2017-07-15T00:00:00"
+date = "2019-11-25T00:00:00"
 draft = false
 
 widget = "about"
@@ -37,4 +37,4 @@ weight = 1
 
 # About
 
-I am currently a PhD candidate in the Insititute of Intelligent Sensing and Computing, under the supervision of Prof. Zhenzhong Chen. My major research interests are Computer Graphics and Computer Vision.
+I am currently a PhD candidate in the Lab. of Intelligent Information Processing, under the supervision of Prof. Zhenzhong Chen. My major research interests are Computer Graphics and Computer Vision.
